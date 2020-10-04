@@ -26,7 +26,7 @@ To run the following python script you will need the [Selenium Webdriver](https:
 <br>
 
 ## Flowchart
-<img src="https://imgur.com/mtNlp2a">
+<img src="https://github.com/Lenardlim/orixchallenge/blob/master/Flowchart.png">
 
 <br>
 
