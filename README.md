@@ -1,5 +1,6 @@
 # WhatsApp Chatbot &nbsp;<img src="http://i.imgur.com/bhJe078.png" width="30px" height="30px"/>
-A Whatsapp AI chatbot concept for ORIX to process borrower applications  [Whatsapp](https://web.whatsapp.com)
+A Whatsapp AI chatbot concept for ORIX to process borrower applications  [Whatsapp](https://web.whatsapp.com) <br>
+
 The Chatbot is the front end of the Straight Through Processing. It is supported by an AI Credit Model and an analytics dashboard at the backend.
 
 <br>
@@ -25,7 +26,7 @@ To run the following python script you will need the [Selenium Webdriver](https:
 <br>
 
 ## Flowchart
-<img src="https://imgur.com/a/TkQGv91">
+<img src="https://imgur.com/mtNlp2a">
 
 <br>
 
