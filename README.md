@@ -3,7 +3,8 @@ My submission was awarded as the Grand Champion for this competition.
 
 Press coverage - 
 https://www.nst.com.my/lifestyle/bots/2020/11/642256/tech-support-virtual-nasa-space-apps-challenge-hackathon
-PDF copied save above - https://github.com/Lenardlim/orixchallenge/blob/master/News%20Article%20about%20Win.pdf
+
+PDF copy save above - https://github.com/Lenardlim/orixchallenge/blob/master/News%20Article%20about%20Win.pdf
 
 ---
 
