@@ -14,7 +14,7 @@ See https://www.spaceappsmy.com
 # WhatsApp Chatbot &nbsp;<img src="http://i.imgur.com/bhJe078.png" width="30px" height="30px"/>
 A Whatsapp AI chatbot concept for ORIX to process borrower applications  [Whatsapp](https://web.whatsapp.com) <br>
 
-The Chatbot is the front end of the Straight Through Processing. It is supported by an AI Credit Model and an analytics dashboard at the backend, based on a flow chart template script. PY file and script has since been removed as I do not own the rights to it. :) 
+The Chatbot is the front end of the Straight Through Processing. It is supported by an AI Credit Model and an analytics dashboard at the backend, based on a flow chart template script. PY file and script has since been removed / deprecated.
 
 
 <br>
