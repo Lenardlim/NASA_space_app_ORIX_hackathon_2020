@@ -1,4 +1,4 @@
-## Update 17 Nov 2020
+## Update 18 Nov 2020
 My submission was awarded as the Grand Champion for this competition.
 
 Press coverage - 
